@@ -1,10 +1,15 @@
 # Heart-Disease-Prediction-Machine-Learning-Project
 
 Identified person has healthy heart or not
+
 Libraries Used - Numpy, Pandas, Sklearn
+
 Language used - Python
+
 Tools - Google colab
+
 Algorithms used – Logistic regression and SVM
+
 Accuracy - 85%
 
 # Output
